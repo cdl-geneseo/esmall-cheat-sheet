@@ -19,11 +19,14 @@
                 },
                 "text": {
                     "headline": "Title slide",
-                    "text": "This will be the title slide. It will show a zoomed-out version of your image to the left. We can swap in any image we like for the background here and the image at top right."
+                    "text": "This will be the title slide. It will show a zoomed-out version of your image to the left. We can swap in any image we like for the background here and the image above the text."
                 },
                 "type": "overview"
             },
             {
+                "background": {
+                    "url": "https://cdl-geneseo.github.io/esmall-cheat-sheet/images/cheat-sheet.jpg"
+                },
                 "date": "",
                 "location": {
                     "lat": 57.70414723434193,
@@ -38,10 +41,13 @@
                 },
                 "text": {
                     "headline": "First slide",
-                    "text": "This is the first slide. When it loads, the image at left zooms in to a specified location. The text here will describe what's noteworthy about the location we've zoomed to. The default icon that appears when you mouse over the image could be swapped out for a custom icon. As with the title slide and all slides, we can have both a background image behind the text and an image above the text. These are optional."
+                    "text": "This is the first slide. When it loads, the image at left zooms in to a specified location. The text here will describe what's noteworthy about the location we've zoomed to. The default icon that appears when you mouse over the image could be swapped out for a custom icon. I've kept the background image the same throughout these slides, but each slide can have its own background image."
                 }
             },
             {
+                "background": {
+                    "url": "https://cdl-geneseo.github.io/esmall-cheat-sheet/images/cheat-sheet.jpg"
+                },
                 "date": "",
                 "location": {
                     "lat": 8.059229627200192,
@@ -60,6 +66,9 @@
                 }
             },
             {
+                "background": {
+                    "url": "https://cdl-geneseo.github.io/esmall-cheat-sheet/images/cheat-sheet.jpg"
+                },
                 "date": "",
                 "location": {
                     "lat": 59.712097173322924,
