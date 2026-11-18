@@ -17,10 +17,9 @@
                 },
                 "text": {
                     "headline": "Title slide",
-                    "text": "This will be the title slide"
+                    "text": "This will be the title slide. It will show a zoomed-out version of your image to the left. We can have a background image behind this text if we like."
                 },
-                "type": "overview",
-                "zoom": "4"
+                "type": "overview"
             },
             {
                 "date": "",
@@ -43,7 +42,7 @@
                 },
                 "text": {
                     "headline": "First slide",
-                    "text": "This will be the first slide. It has some text."
+                    "text": "This is the first slide. When it loads, the image at left zooms in to a specified location. The text here will describe what's noteworthy about the location we've zoomed to. Currently, a basic map pin appears at the specified location. This could be swapped out for a different icon, but it's also possible to have no icon at all. Unless there's a particular need to mark a highly specific place on the image, it's probably less distracting to omit the icon altogether."
                 }
             },
             {
@@ -67,7 +66,7 @@
                 },
                 "text": {
                     "headline": "Second slide",
-                    "text": "This will be the second slide. It has some text as well."
+                    "text": "When the second slide loads, we move to a new location. The text here will describe what's noteworthy about the new location. As with the title slide and all slides, we can have a background image behind the text as well as an image at the top of the text box."
                 }
             },
             {
@@ -91,7 +90,7 @@
                 },
                 "text": {
                     "headline": "Third slide",
-                    "text": "This will be the third slide."
+                    "text": "The third slide zooms to yet another location. Text here will describe what's noteworthy about the new location."
                 }
             }
         ],
