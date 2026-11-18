@@ -19,7 +19,8 @@
                     "headline": "Title slide",
                     "text": "This will be the title slide"
                 },
-                "type": "overview"
+                "type": "overview",
+                "zoom": "4"
             },
             {
                 "date": "",
