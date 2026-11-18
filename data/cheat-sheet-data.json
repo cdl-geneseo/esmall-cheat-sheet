@@ -1,0 +1,104 @@
+{
+    "storymap": {
+        "call_to_action": true,
+        "call_to_action_text": "\"\"",
+        "map_as_image": false,
+        "map_type": "zoomify",
+        "slides": [
+            {
+                "date": "",
+                "location": {
+                    "line": true
+                },
+                "media": {
+                    "caption": "",
+                    "credit": "",
+                    "url": ""
+                },
+                "text": {
+                    "headline": "Title slide",
+                    "text": "This will be the title slide"
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "location": {
+                    "lat": 57.70414723434193,
+                    "line": true,
+                    "lon": -100.546875,
+                    "zoom": 1,
+                    "icon": "https://cdl-geneseo.github.io/esmall-cheat-sheet/images/pin.png",
+                    "iconSize": [
+                        15,
+                        24
+                    ],
+                    "use_custom_marker": true
+                },
+                "media": {
+                    "caption": "",
+                    "credit": "",
+                    "url": ""
+                },
+                "text": {
+                    "headline": "First slide",
+                    "text": "This will be the first slide. It has some text."
+                }
+            },
+            {
+                "date": "",
+                "location": {
+                    "lat": 8.059229627200192,
+                    "line": true,
+                    "lon": -65.390625,
+                    "zoom": 2,
+                    "icon": "https://cdl-geneseo.github.io/esmall-cheat-sheet/images/pin.png",
+                    "iconSize": [
+                        15,
+                        24
+                    ],
+                    "use_custom_marker": true
+                },
+                "media": {
+                    "caption": "",
+                    "credit": "",
+                    "url": ""
+                },
+                "text": {
+                    "headline": "Second slide",
+                    "text": "This will be the second slide. It has some text as well."
+                }
+            },
+            {
+                "date": "",
+                "location": {
+                    "lat": 59.712097173322924,
+                    "line": true,
+                    "lon": -139.21874999999997,
+                    "zoom": 2,
+                    "icon": "https://cdl-geneseo.github.io/esmall-cheat-sheet/images/pin.png",
+                    "iconSize": [
+                        15,
+                        24
+                    ],
+                    "use_custom_marker": true
+                },
+                "media": {
+                    "caption": "",
+                    "credit": "",
+                    "url": ""
+                },
+                "text": {
+                    "headline": "Third slide",
+                    "text": "This will be the third slide."
+                }
+            }
+        ],
+        "zoomify": {
+            "attribution": "Beth Small",
+            "height": 4986,
+            "path": "https://cdl-geneseo.github.io/esmall-tiles-one/",
+            "width": 3618
+        }
+    }
+}
