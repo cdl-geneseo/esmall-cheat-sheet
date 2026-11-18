@@ -1,14 +1,14 @@
 {
     "storymap": {
         "call_to_action": true,
-        "call_to_action_text": "\"\"",
-        "map_as_image": false,
+        "call_to_action_text": "",
+        "map_as_image": true,
         "map_type": "zoomify",
         "slides": [
             {
                 "date": "",
                 "location": {
-                    "line": true
+                    "line": false
                 },
                 "media": {
                     "caption": "",
