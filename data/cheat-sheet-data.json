@@ -5,7 +5,9 @@
         "map_as_image": true,
         "map_type": "zoomify",
         "slides": [
-            {
+            {   "background": {
+                    "url": "https://cdl-geneseo.github.io/esmall-cheat-sheet/images/cheat-sheet.jpg"
+                },
                 "date": "",
                 "location": {
                     "line": false
@@ -17,7 +19,7 @@
                 },
                 "text": {
                     "headline": "Title slide",
-                    "text": "This will be the title slide. It will show a zoomed-out version of your image to the left. We can have a background image behind this text if we like."
+                    "text": "This will be the title slide. It will show a zoomed-out version of your image to the left. We can swap in any image we like for the background here and the image at top right."
                 },
                 "type": "overview"
             },
@@ -36,7 +38,7 @@
                 },
                 "text": {
                     "headline": "First slide",
-                    "text": "This is the first slide. When it loads, the image at left zooms in to a specified location. The text here will describe what's noteworthy about the location we've zoomed to. Currently, a basic map pin appears at the specified location. This could be swapped out for a different icon, but it's also possible to have no icon at all. Unless there's a particular need to mark a highly specific place on the image, it's probably less distracting to omit the icon altogether."
+                    "text": "This is the first slide. When it loads, the image at left zooms in to a specified location. The text here will describe what's noteworthy about the location we've zoomed to. The default icon that appears when you mouse over the image could be swapped out for a custom icon. As with the title slide and all slides, we can have both a background image behind the text and an image above the text. These are optional."
                 }
             },
             {
@@ -54,7 +56,7 @@
                 },
                 "text": {
                     "headline": "Second slide",
-                    "text": "When the second slide loads, we move to a new location. The text here will describe what's noteworthy about the new location. As with the title slide and all slides, we can have a background image behind the text as well as an image at the top of the text box."
+                    "text": "When the second slide loads, we move to a new location. The text here will describe what's noteworthy about the new location."
                 }
             },
             {
