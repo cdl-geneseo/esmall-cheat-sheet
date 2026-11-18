@@ -1,2 +1,2 @@
 # esmall-cheat-sheet
-Elizabeth Small Story Map for Cheat Sheet
+Elisabeth Small Story Map for Cheat Sheet
