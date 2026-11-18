@@ -13,7 +13,7 @@
                 "media": {
                     "caption": "",
                     "credit": "",
-                    "url": ""
+                    "url": "https://cdl-geneseo.github.io/esmall-cheat-sheet/images/cheat-sheet.jpg"
                 },
                 "text": {
                     "headline": "Title slide",
@@ -27,13 +27,7 @@
                     "lat": 57.70414723434193,
                     "line": true,
                     "lon": -100.546875,
-                    "zoom": 4,
-                    "icon": "https://cdl-geneseo.github.io/esmall-cheat-sheet/images/pin.png",
-                    "iconSize": [
-                        15,
-                        24
-                    ],
-                    "use_custom_marker": true
+                    "zoom": 4
                 },
                 "media": {
                     "caption": "",
@@ -51,13 +45,7 @@
                     "lat": 8.059229627200192,
                     "line": true,
                     "lon": -65.390625,
-                    "zoom": 4,
-                    "icon": "https://cdl-geneseo.github.io/esmall-cheat-sheet/images/pin.png",
-                    "iconSize": [
-                        15,
-                        24
-                    ],
-                    "use_custom_marker": true
+                    "zoom": 4
                 },
                 "media": {
                     "caption": "",
@@ -75,13 +63,7 @@
                     "lat": 59.712097173322924,
                     "line": true,
                     "lon": -139.21874999999997,
-                    "zoom": 4,
-                    "icon": "https://cdl-geneseo.github.io/esmall-cheat-sheet/images/pin.png",
-                    "iconSize": [
-                        15,
-                        24
-                    ],
-                    "use_custom_marker": true
+                    "zoom": 4
                 },
                 "media": {
                     "caption": "",
