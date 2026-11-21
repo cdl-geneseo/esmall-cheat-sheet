@@ -19,7 +19,7 @@
                 },
                 "text": {
                     "headline": "Title slide",
-                    "text": "This will be the title slide. It will show a zoomed-out version of your image to the left. We can swap in any image we like for the one behind this text. We can also add an image above the text, but that might looked cluttered. A good example to follow is the <a href='https://storymap.knightlab.com/gigapixel/'>one on the StoryMapJS webite.</a>"
+                    "text": "<span style='color: #ffffff;'>This will be the title slide. It will show a zoomed-out version of your image to the left. We can swap in any image we like for the one behind this text. We can also add an image above the text, but that might looked cluttered. A good example to follow is the <a href='https://storymap.knightlab.com/gigapixel/'>one on the StoryMapJS webite.</a></span>"
                 },
                 "type": "overview"
             },
